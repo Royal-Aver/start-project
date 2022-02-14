@@ -1,0 +1,5 @@
+Скачать и установить на ПК node.js (проверить версию node -v)
+Скачать и установить на ПК git (обновить git update)
+npm init (создается package.json)
+npm i gulp-cli -g (gulp устанавливается на ПК глобально)
+npm i gulp -D

@@ -1,0 +1,34 @@
+@font-face {
+  font-family: BriosoPro Italic;
+  font-display: swap;
+  src: url("../fonts/BriosoPro Italic.woff2") format("woff2"), url("../fonts/BriosoPro Italic.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: d9464;
+  font-display: swap;
+  src: url("../fonts/d9464-arkhip_font.woff2") format("woff2"), url("../fonts/d9464-arkhip_font.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+.no-webp body {
+  background: url(../img/photo_2022-01-29_03-39-31.jpg); }
+
+p {
+  color: green;
+}
+
+@media (max-width: 768px) {
+  p {
+    font-size: 30px;
+  }
+
+  body {
+    background-color: #531919;
+  }
+}
+
+.webp body { background: url(../img/photo_2022-01-29_03-39-31.webp); }
