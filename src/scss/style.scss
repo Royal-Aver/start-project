@@ -1,21 +1,4 @@
-@import "fonts";
-
-body {
-    background: url(@img/photo_2022-01-29_03-39-31.jpg);
-}
-
-p {
-    color: green;
-}
-
-@media (max-width: 768px) {
-    p {
-        font-size: 30px;
-    }
-}
-
-@media (max-width: 768px) {
-    body {
-        background-color: rgb(83, 25, 25);
-    }
-}
+@import "_fonts";
+@import "_global";
+@import "_reset";
+@import "_vars";
