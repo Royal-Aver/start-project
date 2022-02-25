@@ -1,3 +1,5 @@
+25.02.2021
+
 start project (gulp + webpack) version 1.1
 
 1. Добавлен gitignore
