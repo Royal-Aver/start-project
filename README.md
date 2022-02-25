@@ -1,4 +1,4 @@
-start project (gulp + webpack)
+start project (gulp + webpack) version 1.1
 
 1. Добавлен gitignore
 2. Удалены из папки dist папка fonts и из папки src/scss папка fonts, так как они создаются автоматически при добавлении в проект нужных шрифтов
